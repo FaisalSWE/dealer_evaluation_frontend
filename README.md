@@ -8,46 +8,51 @@ An IBM Code Engine-based microservice application to compare product pricing fro
 
 ---
 
-## 🚀 Deployed Microservices
+## Deployed Microservices
 
 | Microservice      | Description                 |
 |-------------------|-----------------------------|
 | Product Details   | Lists available products     |
 | Dealer Pricing    | Pricing for selected dealer  |
-| Frontend UI       | User interface               |              |
+| Frontend UI       | User interface               |             
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
-### 🟢 Homepage
+### Homepage
 > Dropdown populated with products
 
 ![Homepage Screenshot](screenshots/homepage.png)
 
-### 🟡 Dealer Selected
+### Dealer Selected
 > Selected product and dealer with price
 
 ![Product Dealer Price](screenshots/product_dealer_price.png)
 
+### All Dealer Selected
+
+> Selected product and all dealers with price
+
+![Product Dealer Price](screenshots/product_all_dealers_prices.png)
+ 
 ---
+##  Tech Stack
 
-## 🛠 Tech Stack
-
-- 🧠 Backend:
+-  Backend:
   - Python (Flask)
   - Node.js (Express)
 
-- 🎨 Frontend:
+-  Frontend:
   - HTML + JavaScript + Axios
 
-- ☁️ Cloud:
+-  Cloud:
   - IBM Code Engine
   - IBM Container Registry
 
 ---
 
-## 📦 Build & Deploy Commands
+##  Build & Deploy Commands
 
 ```bash
 # Deploy Product Details
