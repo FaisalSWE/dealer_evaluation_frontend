@@ -10,11 +10,11 @@ An IBM Code Engine-based microservice application to compare product pricing fro
 
 ## 🚀 Deployed Microservices
 
-| Microservice      | Description                 | URL                                                                 |
-|-------------------|-----------------------------|---------------------------------------------------------------------|
-| Product Details   | Lists available products     | [prodlist](https://prodlist.1xxgmbw3gkk7.us-south.codeengine.appdomain.cloud/)   |
-| Dealer Pricing    | Pricing for selected dealer  | [dealerdetails](https://dealerdetails.1xxgmbw3gkk7.us-south.codeengine.appdomain.cloud/) |
-| Frontend UI       | User interface               | [frontend](https://your-frontend-url/)                             |
+| Microservice      | Description                 |
+|-------------------|-----------------------------|
+| Product Details   | Lists available products     |
+| Dealer Pricing    | Pricing for selected dealer  |
+| Frontend UI       | User interface               |              |
 
 ---
 
